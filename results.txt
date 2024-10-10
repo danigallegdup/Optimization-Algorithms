@@ -1,0 +1,47 @@
+Museum Attendance Algorithm Results
+==================================
+Test 1 Results:
+Groups: [15, 30, 35, 50, 55]
+Capacity: 65
+Algorithm Approximate Attendance: 55 people
+Optimal Attendance (Brute Force): 65 people
+Algorithm guarantees at least 84.62% of the optimal solution
+Algorithm Time: 0.000000 seconds
+Brute Force Time: 0.000000 seconds
+----------------------------------------------------
+Test 2 Results:
+Groups: [5, 10, 20, 50, 55]
+Capacity: 60
+Algorithm Approximate Attendance: 55 people
+Optimal Attendance (Brute Force): 60 people
+Algorithm guarantees at least 91.67% of the optimal solution
+Algorithm Time: 0.000000 seconds
+Brute Force Time: 0.000000 seconds
+----------------------------------------------------
+Test 3 Results:
+Groups: [5, 10, 15, 25, 30]
+Capacity: 50
+Algorithm Approximate Attendance: 30 people
+Optimal Attendance (Brute Force): 50 people
+Algorithm guarantees at least 60.00% of the optimal solution
+Algorithm Time: 0.000000 seconds
+Brute Force Time: 0.000000 seconds
+----------------------------------------------------
+Test 4 Results:
+Groups: [10, 20, 25, 30, 40, 50]
+Capacity: 70
+Algorithm Approximate Attendance: 55 people
+Optimal Attendance (Brute Force): 70 people
+Algorithm guarantees at least 78.57% of the optimal solution
+Algorithm Time: 0.000000 seconds
+Brute Force Time: 0.000000 seconds
+----------------------------------------------------
+Test 5 Results:
+Groups: [15, 35, 45, 55, 65]
+Capacity: 70
+Algorithm Approximate Attendance: 65 people
+Optimal Attendance (Brute Force): 70 people
+Algorithm guarantees at least 92.86% of the optimal solution
+Algorithm Time: 0.000000 seconds
+Brute Force Time: 0.000000 seconds
+----------------------------------------------------
