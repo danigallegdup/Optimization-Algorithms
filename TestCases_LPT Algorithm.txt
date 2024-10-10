@@ -1,0 +1,36 @@
+Running Test Cases for LPT Algorithm (3-Approximation):
+Test Case 1:
+Jobs: [10, 10, 10, 10]
+Processors: 2
+Expected Makespan: 20
+Computed Makespan: 20
+Test Passed
+-------------------------------
+Test Case 2:
+Jobs: [5, 8, 7, 10, 12]
+Processors: 3
+Expected Makespan: 15
+Computed Makespan: 15
+Test Passed
+-------------------------------
+Test Case 3:
+Jobs: [5, 5, 5, 5, 5, 5]
+Processors: 3
+Expected Makespan: 10
+Computed Makespan: 10
+Test Passed
+-------------------------------
+Test Case 4:
+Jobs: [1, 1, 1, 1, 50]
+Processors: 3
+Expected Makespan: 50
+Computed Makespan: 50
+Test Passed
+-------------------------------
+Test Case 5:
+Jobs: [3, 7, 8, 4, 2, 12, 15]
+Processors: 4
+Expected Makespan: 20
+Computed Makespan: 15
+Test Passed
+-------------------------------
